@@ -4,4 +4,4 @@ I am currently employed as a Software Engineer at HPA, A Cognizant Company. Beca
 The repos on this site include a few of the projects I worked on while attending University.
 
 I also have another GitHub account for some of my personal video game modding projects that are worth a look.
-- ![#1589F0](https://github.com/colinswrath) `#1589F0`
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `https://github.com/colinswrath`
